@@ -2,7 +2,7 @@
 wake on lan/wan server run on NAS Synology
 
 1. Download or clone this one
-   git clone [https://github.com/estebanx64/python-docker-example](https://github.com/lht99/wol-for-nas) && cd wol-for-nas
+   **git clone https://github.com/lht99/wol-for-nas && cd wol-for-nas**
 2. Run: **docker build -t wol-api .**
    (Note that you need . )
 3. Save .tar file to import to NAS
